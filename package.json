@@ -1,5 +1,5 @@
 {
-  "homepage": "http://hemanthvh96.github.io/Mintly",
+  "homepage": "https://hemanthvh96.github.io/Mintly",
   "name": "crypto-proj",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "pre-deploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
