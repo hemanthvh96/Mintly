@@ -74,7 +74,10 @@ const LoginForm: React.FC<LoginFormProps> = ({ onClose }) => {
             </FormItem>
           )}
         />
-        <Button type="submit" className="w-full bg-gray-700 text-white">
+        <Button
+          type="submit"
+          className="w-full bg-primary-800 hover:bg-primary-600 text-white"
+        >
           Login
         </Button>
       </form>
