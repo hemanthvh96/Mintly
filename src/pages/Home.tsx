@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <>
       {isAuthenticated ? (
-        <div className="home bg-secondary min-h-screen">
+        <div className="home  min-h-screen">
           <Greeting />
           <section className="hero mt-4 container mx-auto p-6">
             <div className="grid grid-cols-4 gap-4">
