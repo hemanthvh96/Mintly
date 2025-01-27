@@ -4,7 +4,7 @@ import PaymentSummary from "@/components/custom/PaymentSummary";
 
 const Payments = () => {
   return (
-    <div className="payments bg-secondary min-h-screen">
+    <div className="payments bg-[#e5e7eb] min-h-screen">
       <PaymentGreeting />
       <section className="hero mt-4 container mx-auto p-6">
         <div className="grid grid-cols-3 gap-4 items-stretch">

@@ -1,8 +1,8 @@
 import instantPayments from "../assets/instant-payments.png";
 import secureWallet from "../assets/secure-wallet.png";
 import realTime from "../assets/real-time-exchange-rates.png";
-
 import rewards from "../assets/crypto-wallet.png";
+import creditCardVisa from "../assets/final_credit_card_prev_ui.png";
 
 const GuestHome = () => {
   return (
@@ -28,11 +28,11 @@ const GuestHome = () => {
               </a>
             </div>
           </div>
-          <div className="hero-img flex justify-center">
+          <div className="hero-img flex justify-center perspective:1000px">
             <img
-              src="https://www.creditunion1.org/media/ys0fnow3/business-credit-cards-hero.jpg"
+              src={creditCardVisa}
               alt="credit-img"
-              className="max-w-full rounded-lg"
+              className="max-w-full rounded-lg rotate-[10deg]"
             />
           </div>
         </div>
@@ -58,7 +58,7 @@ const GuestHome = () => {
               {
                 img: realTime,
                 title: "Real-Time Exchange Rates",
-                desc: "Get the best exchange rates for your crypto in real time. Every transaction is clear and upfront.",
+                desc: "Get the competitive exchange rates for your crypto in real time. Every transaction is clear and upfront.",
               },
             ].map((benefit, index) => (
               <div

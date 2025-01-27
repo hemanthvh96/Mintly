@@ -6,7 +6,7 @@ const RecentActivity = () => {
   return (
     <div className="recent-activity container rounded-lg shadow-2xl bg-white truncate">
       <div className="header p-4 flex justify-between bg-primary font-medium text-primary-foreground">
-        <p>Recent Activity (November 07,2024 - Today)</p>
+        <p>Recent Activity (January 01, 2025 - Today)</p>
         <p>
           Sort by: Date (Descending)
           <span>

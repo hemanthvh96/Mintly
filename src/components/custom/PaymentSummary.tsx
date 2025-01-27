@@ -17,7 +17,7 @@ const PaymentSummary = () => {
             <p className="flex gap-3">
               As of:
               <span className="font-medium">
-                11/18/2024
+                01/27/2025
                 <ToolTip
                   data={"⚠️"}
                   tip={
@@ -27,7 +27,7 @@ const PaymentSummary = () => {
               </span>
             </p>
             <p className="flex gap-3">
-              Due By: <span className="font-medium">11/18/2024</span>
+              Due By: <span className="font-medium">02/03/2025</span>
             </p>
           </div>
         </div>

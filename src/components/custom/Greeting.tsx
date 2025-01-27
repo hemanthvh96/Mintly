@@ -13,6 +13,7 @@ const Greeting = () => {
           <p className="font-medium text-2xl sm:text-3xl leading-tight">
             Good Morning,{" "}
             <span className="text-primary">{user?.firstName}</span>
+            <span className="text-primary"> !</span>
           </p>
           <div className="grid sm:grid-flow-col auto-cols-auto gap-4">
             <a className="hover:text-primary">

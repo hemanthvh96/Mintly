@@ -11,7 +11,7 @@ interface Transaction {
 export const transactions: Transaction[] = [
   {
     transactionDay: "Sat",
-    transactionDate: "Nov 2",
+    transactionDate: "Jan 2",
     transactionMerchant: "VENTRA MOBILE CHICAGO IL",
     category: "Travel/Entertainment",
     transactionAmount: 5.0,
@@ -20,7 +20,7 @@ export const transactions: Transaction[] = [
   },
   {
     transactionDay: "Fri",
-    transactionDate: "Nov 1",
+    transactionDate: "Jan 1",
     transactionMerchant: "INTERNET PAYMENT - THANK YOU",
     category: "Payments and Credits",
     transactionAmount: -702.66,
@@ -29,7 +29,7 @@ export const transactions: Transaction[] = [
   },
   {
     transactionDay: "Fri",
-    transactionDate: "Nov 1",
+    transactionDate: "Jan 1",
     transactionMerchant: "WHOLEFDS SLP 10171 CHICAGO IL",
     category: "Supermarkets",
     transactionAmount: 7.15,
@@ -38,7 +38,7 @@ export const transactions: Transaction[] = [
   },
   {
     transactionDay: "Mon",
-    transactionDate: "Oct 28",
+    transactionDate: "Jan 20",
     transactionMerchant:
       "SQ *METRO MARKET CHICAGO IL 00023058430208908465MANFB ASDJsdfsdgsdfgfsdfgsgsfdgfdhsdh",
     category: "Supermarkets",
@@ -48,7 +48,7 @@ export const transactions: Transaction[] = [
   },
   {
     transactionDay: "Sun",
-    transactionDate: "Oct 27",
+    transactionDate: "Jan 27",
     transactionMerchant:
       "CSC SERVICEWORKS, INC. CHICAGO IL GOOGLE PAY ENDING IN 4297",
     category: "Services",
@@ -58,7 +58,7 @@ export const transactions: Transaction[] = [
   },
   {
     transactionDay: "Sun",
-    transactionDate: "Oct 27",
+    transactionDate: "Jan 27",
     transactionMerchant: "CSC SERVICEWORKS, INC. PLAINVIEW NY",
     category: "Services",
     transactionAmount: 10.0,
@@ -67,7 +67,7 @@ export const transactions: Transaction[] = [
   },
   {
     transactionDay: "Fri",
-    transactionDate: "Oct 25",
+    transactionDate: "Jan 25",
     transactionMerchant: "SP BLUEPRINT.BRYANJOHN 3238942606 CA",
     category: "Supermarkets",
     transactionAmount: 57.31,

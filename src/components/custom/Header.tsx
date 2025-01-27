@@ -14,7 +14,7 @@ const Header: React.FC<HeaderProps> = ({ openDialog }) => {
       {isAuthenticated && (
         <div className="container mx-auto text-white flex justify-between items-center">
           <div className="company-logo">
-            <a className="text-2xl font-bold">Mintly</a>
+            <a className="text-2xl font-bold">MintlyGo</a>
           </div>
           <div className="hidden md:flex items-center gap-20">
             <nav>
@@ -43,7 +43,7 @@ const Header: React.FC<HeaderProps> = ({ openDialog }) => {
         <>
           <div className="container mx-auto text-white flex justify-between items-center">
             <div className="company-logo">
-              <a className="text-2xl font-bold">Mintly</a>
+              <a className="text-2xl font-bold">MintlyGo</a>
             </div>
             <div className="hidden md:flex items-center gap-20">
               <nav>

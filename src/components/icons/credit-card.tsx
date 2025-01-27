@@ -1,4 +1,4 @@
-import creditCardVisa from "../../assets/CreditCardVISA.png";
+import creditCardVisa from "../../assets/mintlygocreditcard.png";
 
 type CreditCardProps = {
   height?: string;

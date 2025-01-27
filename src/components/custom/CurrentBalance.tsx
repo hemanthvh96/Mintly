@@ -24,7 +24,7 @@ const CurrentBalance = () => {
       </div>
       <div className="text-base mb-2">
         <p>Last Statement Balance:</p>
-        <p>$200 on 11/08/2024</p>
+        <p>$200 on 12/08/2024</p>
       </div>
       <a className="text-cyan-950 hover:text-primary">
         View Billing Statement PDF
