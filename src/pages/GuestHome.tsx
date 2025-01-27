@@ -147,7 +147,7 @@ const GuestHome = () => {
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center md:items-start gap-8 p-6">
           {/* Company Name and Tagline */}
           <div className="flex flex-col items-center md:items-start">
-            <h1 className="text-3xl font-bold text-white">Mintly</h1>
+            <h1 className="text-3xl font-bold text-white">MintlyGo</h1>
             <p className="mt-2 text-sm text-gray-400">
               Simplify your finances, embrace the future.
             </p>
