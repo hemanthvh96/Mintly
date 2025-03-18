@@ -12,7 +12,7 @@ const GuestHome = () => {
           <div className="hero-content flex flex-col gap-6 px-5">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold">
               <span className="text-primary-800">Revolutionize</span> Your
-              Payments with Crypto!
+              Payments with Crypto!!
             </h1>
             <p className="text-base md:text-lg lg:text-xl">
               Pay your bills with the cryptocurrency of your choice – directly
